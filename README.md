@@ -22,11 +22,14 @@ Each Python file need to be installed in a different computer so that it can wor
 * To display the most recent Tweets, open [*scherm.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/scherm.py) in a monitor in the station hall.
 
 ### Preview
-**Invoer_Menu.py**![Invoer_Menu.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Invoer_Menu_screenshot.png)
+**Invoer_Menu.py**
+![Invoer_Menu.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Invoer_Menu_screenshot.png)
 
-**goedkeuren.py**![goedkeuren.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Goedkeuren_screenshot.png)
+**goedkeuren.py**
+![goedkeuren.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Goedkeuren_screenshot.png)
 
-**scherm.py**![scherm.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Scherm_screenshot.png)
+**scherm.py**
+![scherm.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Scherm_screenshot.png)
 
 ## Authors
 * **Lucas de Jager** - *Goedkeuren*
