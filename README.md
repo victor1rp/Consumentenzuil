@@ -17,9 +17,9 @@ Many NS(Nederlandse Spoorwegen) travelers want to give their comments about NS s
 
 ## Installing
 Each Python file need to be installed in a different computer so that it can work effectively. The [*tweetlijst.json*](https://github.com/victor1rp/Consumentenzuil/blob/master/tweetlijst.json) is a JASON File where the travelers comments will be save as a dictionary with ID, The Tweet, Datum, If it is Accepted and the Rejected Datum.
-To let the travelers write their comments, open the [*Invoer_Menu.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/Invoer_Menu.py) in a computer in the stations
-To let the NS workers approve or reject the travelers comments, open [*goedkeuren.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/goedkeuren.py) in the office computer
-To display the most recent Tweets, open [*scherm.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/scherm.py) in a monitor at the station hall.
+* To let the travelers write their comments, open the [*Invoer_Menu.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/Invoer_Menu.py) in a computer in the stations
+* To let the NS workers approve or reject the travelers comments, open [*goedkeuren.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/goedkeuren.py) in the office computer
+* To display the most recent Tweets, open [*scherm.py*](https://github.com/victor1rp/Consumentenzuil/blob/master/scherm.py) in a monitor at the station hall.
 
 
 ## Authors
