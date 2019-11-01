@@ -30,7 +30,6 @@ Each Python file need to be installed in a different computer so that it can wor
 
 **scherm.py**
 
-
 ![scherm.py](https://github.com/victor1rp/Consumentenzuil/blob/master/Screenshots/Scherm_screenshot.png)
 
 ## Authors
